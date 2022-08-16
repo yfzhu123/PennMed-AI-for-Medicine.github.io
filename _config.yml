@@ -4,3 +4,4 @@ timezone: America/New_York
 markdown: kramdown
 highlighter: rouge
 future: true
+theme: jekyll-theme-midnight
