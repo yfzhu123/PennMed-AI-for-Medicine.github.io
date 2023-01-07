@@ -5,7 +5,17 @@ img: class_logo1.png
 active_tab: main_page 
 ---
 
-<img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/'>
+<img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/' alt='laying_tracks.gif'>
+
+<div style="background-color: #d4edda; color: #155724; border-color: #c3e6cb; padding: 15px; border: 1px solid transparent; border-radius: 4px;">
+  <strong>Welcome to the our brand new course on data science and machine learning for the medical physicist</strong> In this course, you will learn about the following topics:
+  <ul>
+    <li>Interacting with common data found in the Medical Physics field (Radiology and Radiation Oncology</li>
+    <li>Processing this data for use in machine learning models</li>
+    <li>Creating basic machine learning models for use in Radiology and Radiation Oncology</li>
+  </ul>
+</div>
+
 
 <!--
 <iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
