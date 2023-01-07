@@ -1,9 +1,11 @@
 ---
 title: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics - University of Pennsylvania
 layout: default
-img: laying_track.gif
+img: class_logo1.png 
 active_tab: main_page 
 ---
+
+<img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/>
 
 <!--
 <iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
