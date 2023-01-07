@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CIS 521 Staff
+title: MPHY 6120 Staff
 active_tab: staff
 ---
 
