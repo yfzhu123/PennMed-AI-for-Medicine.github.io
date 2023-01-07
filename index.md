@@ -1,13 +1,13 @@
 ---
 title: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics - University of Pennsylvania
 layout: default
-#img: R2D2.png
+img: laying_track.gif
 active_tab: main_page 
 ---
 
+<!--
 <iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
 
-<!--
 <div class="alert alert-danger" markdown="1">
 **Waitlist update**: I added a second session with addition 200 spaces to the course.  That session meets Mondays and Wednesdays at 8:30am-10am in Heilmeier auditorium.  You can get a permit by signing up on [CIS Waitlist System](https://forms.cis.upenn.edu/waitlist/index.php) for CIS4210/5210-402.
 
@@ -116,16 +116,11 @@ Extra Credit Bounty Items:
 
 -->
 
-
-
 Course number
-: CIS 4210/5210 - Artificial Intelligence
+: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics
 
 Prerequeisites
 : Students should feel confident creating python programs and using git.
-#: CIS 121 (for undergraduates)
-#: CIT 594 and CIT 596 (for MCIT students)
-#: A data structure and algorithms course, plus substantial programming experience (for everyone)
 
 Instructor
 : [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774)
@@ -134,34 +129,42 @@ Discussion Forum
 : XXX
 
 Time and place
-#: In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
-#: All lecture materials will be recorded and uploaded for students wishing to participate remotely.  We also have [pre-recorded lectures available for review](modules.html).
+: In Spring 2023, the in person section of the course will be in person at 
+: All lecture materials will be recorded and uploaded. Students are expected to watch this on their own time before meeting in person. 
 : The first day of class is Thursday, January , 2023.
 : The first day of office hours will be January 16, 2023.
 : The final day of class is Thursday, May 8, 2023.
 * The class meets on Thursday from 1:30-4:30 pm Eastern.
 
+<!-- 
+: In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
+: All lecture materials will be recorded and uploaded for students wishing to participate remotely.  We also have [pre-recorded lectures available for review](modules.html).
+: The first day of class is Thursday, January , 2023.
+: The first day of office hours will be January 16, 2023.
+: The final day of class is Thursday, May 8, 2023.
+* The class meets on Thursday from 1:30-4:30 pm Eastern.
+--> 
 
 <!--
 : Mondays **3am-5am** Eastern (Samar Haider)
--->
-
 Office hours (1-on-1 on [OHQ.io](https://ohq.io/courses/246))
+
+Office hours 
 : TBD
 
 Group Office Hours (Recorded)
-: TBD (Chris Callison-Burch)
+-->
 
-
-
-
-
+Group Office Hours
+: TBD (Rafe McBeth)
 
 
 Textbooks
 : Required: None currently required.
+<!-- 
 #__Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig.__ Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition.  You can [buy the textbook on Amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) or from the [UPenn bookstore](https://upenn.bncollege.com/shop/upenn/page/find-textbooks), where you can rent the digital version for $40.  
 #: Supplemental: __Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin__.  This textbook is currently [free online](https://web.stanford.edu/~jurafsky/slp3/) while the textbook authors are revising it to write their 3rd edition.  We will use it in the last third of the course. 
+-->
 : Supplemental: __Machine and Deep Learning in Oncology, Medical Physics and Radiology__ by [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774).  This book is currently in progress.  It will be available for free online in 2023.  It will be a good reference for the last third of the course. 
 
 Materials for Extra Credit Assignments
