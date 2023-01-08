@@ -8,7 +8,7 @@ active_tab: main_page
 <img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/' alt='laying_tracks.gif'>
 
 <div class="alert alert-info">
-<strong> This is a brand new course and the machine learning field is moving increbily fast. Please be patient with me while I work to make maximize the use of the material. The course will be updated as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
+<strong> This is a brand new course and the machine learning field is moving increbily fast. Please be patient with me while I work to maximize the utility of this course, and work out the new course bugs. The course will be updated as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
 </strong>
 </div>
 
