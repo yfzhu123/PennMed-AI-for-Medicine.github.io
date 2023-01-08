@@ -7,14 +7,30 @@ active_tab: main_page
 
 <img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/' alt='laying_tracks.gif'>
 
+<div class="alert alert-info">
+<strong> This is a brand new course and the machine learning field is moving increbily fast. Please be patient with me while I work to make maximize the use of the material. The course will be updated as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
+</strong>
+</div>
+
 <div style="background-color: #d4edda; color: #155724; border-color: #c3e6cb; padding: 15px; border: 1px solid transparent; border-radius: 4px;">
-  <strong>Welcome to the our brand new course on data science and machine learning for the medical physicist</strong> In this course, you will learn about the following topics:
+  <strong>Welcome to the our brand new course on data science and machine learning for the medical physicist</strong> The course will be taught by Dr. Rafe McBeth, a medical physicist at the University of Pennsylvania,you will learn about the following topics.:
   <ul>
-    <li>Interacting with common data found in the Medical Physics field (Radiology and Radiation Oncology</li>
+    <li>Interacting with common data found in the Medical Physics field (Radiology and Radiation Oncology)</li>
     <li>Processing this data for use in machine learning models</li>
     <li>Creating basic machine learning models for use in Radiology and Radiation Oncology</li>
   </ul>
-The overall goal of this course is to 
+
+The overall goal of this course is to provide practical skills, such that the students can contribute to future clinical issues that benefit from the use of data science and machine learning.
+The majority of the didactic (lecture) material will be provided as uploaded videos that can be watched at the students convience. The dedicated course time will be used as live lab coding sessions, where the students will work on the course material in a live coding environment. 
+Since the majority of the learning material will be presented online, and the class size is small, students are expected to attend class/lab sessions in person and work together to solve the coding problems.
+I believe the in person lab sessions will be greatly beneficial to the students, and will help to foster a collaborative learning environment and increase the help I can provide for any computer and coding issues. 
+Students that cannot attend a specific day can the instructor to discuss alternative arrangements.
+
+Logistic details for the course are as follows:
+Course: MPHY 6120-01 Data Science & Artificial Intelligence for the Medical Physicist
+Offered:  Thursdays, 1:45 - 4:45 PM
+Classroom: SCTR 10-146AB 
+Expected enrollment:  10
 </div>
 
 <div class="alert alert-success"  markdown="1">
