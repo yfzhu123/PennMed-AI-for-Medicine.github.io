@@ -4,7 +4,7 @@ title: Schedule
 active_tab: items
 term_start: 2023-01-13
 term_end: 2023-05-09
-lecture_days: Tuesdays and Thursdays
+lecture_days: Thursdays
 ---
 
 

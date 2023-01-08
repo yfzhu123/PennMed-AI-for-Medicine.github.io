@@ -14,6 +14,7 @@ active_tab: main_page
     <li>Processing this data for use in machine learning models</li>
     <li>Creating basic machine learning models for use in Radiology and Radiation Oncology</li>
   </ul>
+The overall goal of this course is to 
 </div>
 
 <div class="alert alert-success"  markdown="1">
