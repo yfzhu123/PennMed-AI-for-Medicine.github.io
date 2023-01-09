@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modules
-active_tab: recordings
+active_tab: Modules
 ---
 
 

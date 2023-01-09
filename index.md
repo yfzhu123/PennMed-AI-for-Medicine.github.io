@@ -8,7 +8,7 @@ active_tab: main_page
 <img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/' alt='laying_tracks.gif'>
 
 <div class="alert alert-info">
-<strong> This is a brand new course and the machine learning field is moving incredibly fast. Please be patient with me while I work to maximize the utility of this course, and work out the new course bugs. The course will be updated as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
+<strong> This is a brand new course and the machine learning field is moving incredibly fast. Please be patient with me while I work to maximize the utility of this course, and work out the new course bugs. The course will be updated as the semester progresses, as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
 </strong>
 </div>
 
@@ -27,14 +27,15 @@ I believe the in person lab sessions will be greatly beneficial to the students,
 Students that cannot attend a specific day can the instructor to discuss alternative arrangements.
 
 Logistic details for the course are as follows:
-<ul>
-<li> Course: MPHY 6120-01 Data Science & Artificial Intelligence for the Medical Physicist
-<li> Offered:  Thursdays, 1:45 - 4:45 PM
-<li> Classroom: SCTR 10-146AB 
-<li> Expected enrollment:  10
-</ul>
+  <ul>
+    <li> Course: MPHY 6120-01 Data Science & Artificial Intelligence for the Medical Physicist</li>
+    <li> Offered:  Thursdays, 1:45 - 4:45 PM</li>
+    <li> Classroom: SCTR 10-146AB</li>
+    <li> Expected enrollment:  10</li>
+  </ul>
 
 </div>
+
 
 <div class="alert alert-success"  markdown="1">
 If you are a newcomer to Python or if you need a refresher, we recommend that you enroll in [Penn's free Introduction to Python Programming course on Coursera](https://www.coursera.org/learn/python-programming-intro). Another useful resource is this recitation on [Debugging and Profiling in Python](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99b8b4a1-c303-4823-8a1c-adb0016d4c22) by Arun Kirubarajan.
