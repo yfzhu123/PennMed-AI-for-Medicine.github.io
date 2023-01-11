@@ -4,53 +4,55 @@
   end_date: 2023-01-26
   title: Course Introduction, Intro to data science and machine learning (AI). Computer setup and Python intro.
   description: In this module, we will introduce the course by going over some basic concepts of data science and artificial intelligence  
-  intro_video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bacec2-6e77-4877-92ac-ad92011ca74c
-  slides: 01-Intro-to-Artificial-Intelligence.pdf
+  intro_video: 
+  #intro_video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bacec2-6e77-4877-92ac-ad92011ca74c
+  slides:
+  #slides: 01-Intro-to-Artificial-Intelligence.pdf
   quiz:
     - 
       title: Quiz 1 "Course start, policies and basics"
       url: https://www.gradescope.com/courses/484718/assignments/2546382/
       due_date: 2023-01-12 23:59:00EDT
-  lessons:
-    - 
-      title: Artificial Intelligence in Philosophy
-      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f77ce115-b6c8-404a-bb49-ad92011f91e7
-      length: 18 minutes
-    - 
-      title: Brain in a Vat Thought Experiment (YouTube)
-      video: https://www.youtube.com/watch?v=zO0sSJB1TrI
-      length: 3 minutes
-    - 
-      title: Artificial Intelligence in Science Fiction 
-      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6463a9ed-ebe5-4211-bd71-ad920119026d
-      length: 20 minutes
-    - 
-      title: Intelligent Agents
-      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3439de81-6296-4e8c-8d28-ad9201191182
-      length: 20 minutes
-    - 
-      title: Task Environments
-      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b4c112-e745-47cb-8468-ad9201191160
-      length: 18 minutes
-  readings:   
-    - 
-      title: AIMA 4th Edition, Chapter 1 "Introduction", Section 1.1 "What is AI"
-      authors: Russell and Norvig
-      optional: false
-    - 
-      title: AIMA 4th Edition, Chapter 27 "Philosophical Foundations", Sections 27.1 "The Limits of AI" and 27.2 "Can Machines Really Think?"
-      authors: Russell and Norvig
-      optional: false
-    - 
-      title: AIMA 4th Edition, Chapter 2 "Intelligent Agents" (whole chapter)
-      authors: Russell and Norvig
-      optional: false
-    - 
-      title: A Behavioral Model of Rational Choice
-      authors: Herbert A Simon
-      url: https://www.rand.org/pubs/papers/P365.html
-      optional: true
-
+#  lessons:
+#    - 
+#      title: Artificial Intelligence in Philosophy
+#      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f77ce115-b6c8-404a-bb49-ad92011f91e7
+#      length: 18 minutes
+#    - 
+#      title: Brain in a Vat Thought Experiment (YouTube)
+#      video: https://www.youtube.com/watch?v=zO0sSJB1TrI
+#      length: 3 minutes
+#    - 
+#      title: Artificial Intelligence in Science Fiction 
+#      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6463a9ed-ebe5-4211-bd71-ad920119026d
+#      length: 20 minutes
+#    - 
+#      title: Intelligent Agents
+#      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3439de81-6296-4e8c-8d28-ad9201191182
+#      length: 20 minutes
+#    - 
+#      title: Task Environments
+#      video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b4c112-e745-47cb-8468-ad9201191160
+#      length: 18 minutes
+#  readings:   
+#    - 
+#      title: AIMA 4th Edition, Chapter 1 "Introduction", Section 1.1 "What is AI"
+#      authors: Russell and Norvig
+#      optional: false
+#    - 
+#      title: AIMA 4th Edition, Chapter 27 "Philosophical Foundations", Sections 27.1 "The Limits of AI" and 27.2 "Can Machines Really Think?"
+#      authors: Russell and Norvig
+#      optional: false
+#    - 
+#      title: AIMA 4th Edition, Chapter 2 "Intelligent Agents" (whole chapter)
+#      authors: Russell and Norvig
+#      optional: false
+#    - 
+#      title: A Behavioral Model of Rational Choice
+#      authors: Herbert A Simon
+#      url: https://www.rand.org/pubs/papers/P365.html
+#      optional: true
+#
 # -
 #   module_number: 2
 #   start_date: 2021-09-06
