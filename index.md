@@ -159,18 +159,45 @@ Prerequeisites
 : Students should feel confident creating python programs and using git.
 
 Instructor
-: [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774)
+: [Rafe McBeth, PhD](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774)
+
+Office
+: 4-346W
 
 Discussion Forum
 : XXX
 
 Time and place
-: In Spring 2023, the in person section of the course will be in person at 
+: In Spring 2022, the in person section of the course will be in person at 
 : All lecture materials will be recorded and uploaded. Students are expected to watch this on their own time before meeting in person. 
-: The first day of class is Thursday, January , 2023.
-: The first day of office hours will be January 16, 2023.
-: The final day of class is Thursday, May 8, 2023.
-* The class meets on Thursday from 1:30-4:30 pm Eastern.
+: The first day of class is Thursday, January 11, 2023.
+: The first day of office hours will be January 15, 2023.
+: The final day of class is Thursday, May 7, 2023.
+* The class meets on Thursdays from 0:45-4:45 pm Eastern.
+
+
+Guest lectures will be presented by other members of the Penn Medical Physics team as needed to enhance content. (TBD)
+
+Course Description:
+The fields of data science (DS) and artificial intelligence (AI) are growing rapidly and will impact the future practice of medicine and the field of Medical Physics. This course is designed to enhance the graduate student’s ability to contribute to Medical Physics research and the integration of DS and AI into clinical practice. The course will teach students practical programming techniques (Python), data science infrastructure, data analysis workflows, medical physics specific programming and how to build, analyze and use machine learning (ML) and Deep learning (DL) AI models. 
+
+Course Format:
+Short on demand lectures will be provided for content being covered that week. It is expected that students will watch this material on their own. Meeting times will be dedicated to clarifying the lecture material, answering questions and working through hands on examples. 
+
+Required course resources:
+No textbook required. Course materials will be provided online and will include videos, slides, Jupyter notebooks and a GitHub repository for skeleton code and examples. 
+
+Course GitHub repository: https://github.com/MedPhysDS-AI
+Course website: https://medphysds-ai.github.io/
+
+Optional course resources:
+-	Machine and Deep Learning in Oncology, Medical Physics and Radiology by Issam El Naqa et al, second edition, 2022 ISBN 978-3-030-83046-5
+-	How to Think Like a Computer Scientist: Learning with Python
+2ed by Jeffrey Elkner, Allen B. Downey and Chris Meyers (Open Book
+Project) [https://greenteapress.com/wp/think-python-2e/]
+-	Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter 3rd Edition by Wes McKinney (Author) [ISBN-10: 109810403X]
+
+
 
 <!-- 
 : In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
@@ -215,13 +242,10 @@ Materials for Extra Credit Assignments
 -->
 
 Grading 
-: * 70% Homework Assignments
-* 30% Exams and Quizzes 
-	* 10% for weekly quizzes (equally weighted)
-	* 10% for midterm 1
-	* 10% for midterm 2
-* Up to 3-5% in Optional Extra Credit
-: The course is not curved.  Your overall score is computed as _0.3 * exam score + 0.7 * homework score_.  All homeworks are equally weighted. Here is  how letter grades are assigned based on your overall score:
+: * 50% Homework Assignments and quizzes
+* 25% for midterm project
+* 25% for final project
+
 : | Score	| Grade   |
 |-------|---------| 
 | ≥ 97 | A+| 
@@ -247,7 +271,7 @@ Collaboration Policy
 : Unless otherwise noted, you are not allowed to work in groups on the homework assignments. You can discuss homework problems with others (you must explicitly list who you discussed problems with on each homework submission), but *all code must be your own independent work.*  You are not allowed to upload your code to publicly accessible places (like public github repositories), and you are not allowed to access anyone else's code.  If you discover someone else's code online, please report it to the course staff via a private note on Piazza. 
 
 
-
+<!--
 Late Day Policy
 : Each student has 5 free "late days".  Homeworks can be submitted at most two days late.  If you are out of late days, then you will not be able to get credit for subsequent late assignments. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays.  You do not need to ask permission to use your late days.  No additional late days are granted. 
-
+-->

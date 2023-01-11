@@ -7,9 +7,6 @@ term_end: 2023-05-09
 lecture_days: Thursdays
 ---
 
-
-
-
 <!--
 <div class="alert alert-info">
 You can <a href="https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=82b51ccf-a22c-44fb-9582-ad99000835ae">watch recordings of the live lectures</a>, or you can watch <a href="modules.html">pre-recorded lectures for each module</a>.
