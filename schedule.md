@@ -2,7 +2,7 @@
 layout: default
 title: Schedule
 active_tab: items
-term_start: 2023-01-13
+term_start: 2023-01-12
 term_end: 2023-05-09
 lecture_days: Thursdays
 ---
