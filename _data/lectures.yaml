@@ -14,33 +14,12 @@
   date: 2023-01-12
   title: Introduction to data science and machine learning and its applications to medical physics
   recording:
+  slides: test.pdf
 -
   date: 2023-01-12
   title: Introduction / AI in Science Fiction and Philosophy 
   recording: https://test.com 
 
-  parts: 
-    -
-      title: Course Logistics
-      slides: test.pdf
-    -
-      title: Basics of programming 
-      slides: test.pdf
-    -
-      title: Introduction to data science and machine learning and its applications to medical physics
-      slides: 
-  readings:   
-    - 
-      title: Test
-      authors: Tes
-      optional: false
-  videos:
-    -  
-      authors: test
-      url: https://www.youtube.com/watch?v=39EdqUbj92U-test
-      title: test-title 
-      length: 9.5 minutes 
--
 # recording: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf97c97d-568d-44c7-85e2-ad9501232319&start=313.990763026
 
 #-
