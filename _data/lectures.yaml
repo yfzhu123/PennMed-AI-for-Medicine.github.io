@@ -10,6 +10,7 @@
   date: 2023-01-12
   title: Basics of programming (Python)
   recording: 
+  slides: test.pdf
 -
   date: 2023-01-12
   title: Introduction to data science and machine learning and its applications to medical physics
@@ -22,7 +23,7 @@
   parts: 
     -
       title: Course Logistics
-      slides: 
+      slides:  
     -
       title: Basics of programming 
       slides: 
