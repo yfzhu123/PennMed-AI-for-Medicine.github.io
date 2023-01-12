@@ -170,7 +170,7 @@ Discussion Forum
 Time and place
 : In Spring 2022, the in person section of the course will be in person at 
 : All lecture materials will be recorded and uploaded. Students are expected to watch this on their own time before meeting in person. 
-: The first day of class is Thursday, January 11, 2023.
+: The first day of class is Thursday, January 12, 2023.
 : The first day of office hours will be January 15, 2023.
 : The final day of class is Thursday, May 7, 2023.
 * The class meets on Thursdays from 0:45-4:45 pm Eastern.
