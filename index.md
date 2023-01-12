@@ -206,9 +206,7 @@ Project) [https://greenteapress.com/wp/think-python-2e/]
 : The first day of office hours will be January 16, 2023.
 : The final day of class is Thursday, May 8, 2023.
 * The class meets on Thursday from 1:30-4:30 pm Eastern.
---> 
 
-<!--
 : Mondays **3am-5am** Eastern (Samar Haider)
 Office hours (1-on-1 on [OHQ.io](https://ohq.io/courses/246))
 
@@ -234,7 +232,6 @@ Materials for Extra Credit Assignments
 : In addition to the normal homework assignments, we will have a series of optional extra credit assignments that use programmable toy R2D2s.  These assignments can be done in groups.  Each extra credit homework assignment if worth up to about 1% towards your final grade.  The total amount of extra credit earned will be divided among each student in a group (so students in a large group get less extra credit than students in smaller groups to refelct the effort done).
 : You can borrow one of the R2D2 robots from us.  It must be returned at the end of the semester in good working order, or you will have to pay $100 to replace it. 
 
-<!--
 : If you are outside of Philadelphia, you can purchase a __Sphero R2D2__.  Currently, you can buy the robot for about $100 on [Amazon](https://www.amazon.com/Sphero-R201ROW-R2-D2-App-Enabled-Droid/dp/B071KSR86B/) or $80 from [Walmart.com](https://www.walmart.com/ip/Sphero-R2-D2-App-Enabled-Droid/707617540).  If you live outside the USA, you may need to use a [3rd party shipping service](https://planetexpress.com/stores/walmart/).
 : If you live outside of Philadelphia, you will also need a Raspberry Pi Sensor Pack that the TAs assembled from parts. We will send it to you if [you provide your address on this form](https://docs.google.com/forms/d/e/1FAIpQLSdGu_0Qms_RxA42QCZY0A_PrJFPNgXrVENYmZTAclrj5ZKoww/viewform?usp=sf_link).
 -->
