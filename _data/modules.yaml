@@ -6,8 +6,7 @@
   description: In this module, we will introduce the course by going over some basic concepts of data science and artificial intelligence  
   intro_video: 
   #intro_video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bacec2-6e77-4877-92ac-ad92011ca74c
-  slides:
-  #slides: 01-Intro-to-Artificial-Intelligence.pdf
+  slides: 01-Intro-to-Artificial-Intelligence.pdf
   quiz:
     - 
       title: Quiz 1 "Course start, policies and basics"
