@@ -33,7 +33,6 @@ Logistic details for the course are as follows:
     <li> Classroom: SCTR 10-146AB</li>
     <li> Expected enrollment:  10</li>
   </ul>
-
 </div>
 
 
@@ -135,8 +134,6 @@ It is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.due_date | dat
 
 
 <!--
-
-
 <div class="alert alert-info" markdown="1">
 R2D2 ***Extra Credit*** Assignments (late submission not allowed):
 * [Robot Exercise 1: Using Python to Control R2D2](r2d2_assignments/hw1/homework1.html)
@@ -222,13 +219,13 @@ Group Office Hours
 
 Textbooks
 : Required: None currently required.
+
 <!-- 
-#__Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig.__ Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition.  You can [buy the textbook on Amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) or from the [UPenn bookstore](https://upenn.bncollege.com/shop/upenn/page/find-textbooks), where you can rent the digital version for $40.  
-#: Supplemental: __Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin__.  This textbook is currently [free online](https://web.stanford.edu/~jurafsky/slp3/) while the textbook authors are revising it to write their 3rd edition.  We will use it in the last third of the course. 
+__Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig.__ Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition.  You can [buy the textbook on Amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) or from the [UPenn bookstore](https://upenn.bncollege.com/shop/upenn/page/find-textbooks), where you can rent the digital version for $40.  
+: Supplemental: __Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin__.  This textbook is currently [free online](https://web.stanford.edu/~jurafsky/slp3/) while the textbook authors are revising it to write their 3rd edition.  We will use it in the last third of the course. 
 : Supplemental: __Machine and Deep Learning in Oncology, Medical Physics and Radiology__ by [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774).  This book is currently in progress.  It will be available for free online in 2023.  It will be a good reference for the last third of the course. 
 
 Materials for Extra Credit Assignments
-
 : In addition to the normal homework assignments, we will have a series of optional extra credit assignments that use programmable toy R2D2s.  These assignments can be done in groups.  Each extra credit homework assignment if worth up to about 1% towards your final grade.  The total amount of extra credit earned will be divided among each student in a group (so students in a large group get less extra credit than students in smaller groups to refelct the effort done).
 : You can borrow one of the R2D2 robots from us.  It must be returned at the end of the semester in good working order, or you will have to pay $100 to replace it. 
 
