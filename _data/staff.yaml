@@ -7,9 +7,10 @@
   office_hours: 2 PM - 3 PM, Friday
   location: Virtual 
 
-#- name: Yue Yang
-#  pic: yue_yang.png
-#  url: https://yueyang1996.github.io
-#  office_hours: 9 AM - 11 AM, Thursday
-#  location: 
-#  extra_title: Head TA
+- name: Yifeng Zhu
+  pic: Yifeng.png
+  ai_pic: Yifeng.png
+  #url: https://yueyang1996.github.io
+  #office_hours: 9 AM - 11 AM, Thursday
+  #location: 
+  extra_title: TA
