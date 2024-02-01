@@ -6,8 +6,7 @@
   type: video
   recording:   
   #recording: https://upenn.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a4256e5d-9c02-41b6-aefd-a9460066cfba&v=1
-  slides:   
-  #slides: 00-Course-Intro.pdf
+  slides: test.pdf
   readings:   
  #   - 
  #     title: AIMA Chapter 1 "Introduction"
