@@ -20,13 +20,16 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
 <table class="table table-striped" >
   <thead>
     <tr>
+      <th>Week</th>
       <th>Date</th> 
       <th>Topic</th>
+      <th>Assignments</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-    <td>Week 01: 01/15 - 01/19</td>
+    <td>01</td>
+    <td>01/15 - 01/19</td>
     <td>
         Foundations 1
         <ul>
@@ -36,7 +39,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>    
     <tr>
-    <td>Week 02: 01/22 - 01/26</td>
+    <td>02</td>
+    <td>01/22 - 01/26</td>
     <td>
         Foundations 2
         <ul>
@@ -47,7 +51,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>
     <tr>
-    <td>Week 03: 01/29 - 02/02</td>
+    <td>03</td>
+    <td>01/29 - 02/02</td>
     <td>
         Foundations 3
         <ul>
@@ -57,7 +62,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>
   <tr>
-    <td>Week 04: 02/05 - 02/09</td>
+    <td>04</td>
+    <td>02/05 - 02/09</td>
     <td>
       Module 1
       <ul>
@@ -71,7 +77,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
 </tr> 
 <!-- Previous rows are assumed to be above -->
   <tr>
-    <td>Week 05: 02/12 - 02/16</td>
+    <td>05</td>
+    <td>02/12 - 02/16</td>
     <td>
       Module 1
       <ul>
@@ -84,7 +91,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 06: 02/19 - 02/23</td>
+    <td>06</td>
+    <td>02/19 - 02/23</td>
     <td>
       Module 2
       <ul>
@@ -93,7 +101,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 07: 02/26 - 03/01</td>
+    <td>07</td>
+    <td>02/26 - 03/01</td>
     <td>
       Module 2
       <ul>
@@ -102,11 +111,13 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 08: 03/04 - 03/08</td>
+    <td>08</td>
+    <td>03/04 - 03/08</td>
     <td>Spring Break</td>
   </tr>
   <tr>
-    <td>Week 09: 03/11 - 03/15</td>
+    <td>09</td>
+    <td>03/11 - 03/15</td>
     <td>
       Midterm Project Due - Module 2
       <ul>
@@ -115,7 +126,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 10: 03/18 - 03/22</td>
+    <td>10</td>
+    <td>03/18 - 03/22</td>
     <td>
       Module 3
       <ul>
@@ -124,7 +136,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 11: 03/25 - 03/29</td>
+    <td>11</td>
+    <td>03/25 - 03/29</td>
     <td>
       Module 3
       <ul>
@@ -133,7 +146,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 12: 04/01 - 04/05</td>
+    <td>12</td>
+    <td>04/01 - 04/05</td>
     <td>
       Module 3
       <ul>
@@ -142,7 +156,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 13: 04/08 - 04/12</td>
+    <td>13</td>
+    <td>04/08 - 04/12</td>
     <td>
       Module 3
       <ul>
@@ -151,7 +166,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 14: 04/15 - 04/19</td>
+    <td>14</td>
+    <td>04/15 - 04/19</td>
     <td>
       Module 3
       <ul>
@@ -161,7 +177,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 15: 04/22 - 04/26</td>
+    <td>15</td>
+    <td>04/22 - 04/26</td>
     <td>
       Module 3
       <ul>
@@ -171,7 +188,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>Week 16: 04/29 - 05/03</td>
+    <td>16</td>
+    <td>04/29 - 05/03</td>
     <td>
       Final
       <ul>
