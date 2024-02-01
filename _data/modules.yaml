@@ -1,7 +1,7 @@
 -
   module_number: 1
-  start_date: 2023-01-12
-  end_date: 2023-01-26
+  start_date: 2024-01-12
+  end_date: 2024-01-26
   title: Course Introduction, Intro to data science and machine learning (AI). Computer setup and Python intro.
   description: In this module, we will introduce the course by going over some basic concepts of data science and artificial intelligence  
   intro_video: 
