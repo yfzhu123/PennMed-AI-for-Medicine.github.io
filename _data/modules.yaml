@@ -68,18 +68,18 @@
 #   lessons:
 
 #   -
-   module_number: 2
-   start_date: 2024-01-29
-   end_date: 2024-02-02
-   title: Foundations 3
-   description: Python is an amazing language with a concise syntax that allows you to rapidly prototype algorithms, and we are going to use it for all the assignments in this course. This module will cover all of the fundamentals you need to get started with Python. And as we continue through the rest of the course, you’ll quickly become an expert!
-   intro_video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4389e5d-083e-40c7-b458-ad92011c9210
-   slides: 01-Intro-to-Artificial-Intelligence.pdf
-   quiz:
-     - 
-       title: Quiz 2 "Python"
-       url: https://www.gradescope.com/courses/305169/assignments/1466690/
-       due_date: 2021-09-11 23:59:00EDT
+#   module_number: 2
+#   start_date: 2024-01-29
+#   end_date: 2024-02-02
+#   title: Foundations 3
+#   description: Python is an amazing language with a concise syntax that allows you to rapidly prototype algorithms, and we are going to use it for all the assignments in this course. This module will cover all of the fundamentals you need to get started with Python. And as we continue through the rest of the course, you’ll quickly become an expert!
+#   intro_video: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4389e5d-083e-40c7-b458-ad92011c9210
+#   slides: 01-Intro-to-Artificial-Intelligence.pdf
+#   quiz:
+#     - 
+#       title: Quiz 2 "Python"
+#       url: https://www.gradescope.com/courses/305169/assignments/1466690/
+#       due_date: 2021-09-11 23:59:00EDT
 
 
 #     - 
