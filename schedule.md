@@ -28,8 +28,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
   </thead>
   <tbody>
     <tr>
-    <td>01</td>
-    <td>01/15 - 01/19</td>
+    <td class="text-center">01</td>
+    <td class="text-center">01/15 - 01/19</td>
     <td>
         Foundations 1
         <ul>
@@ -39,8 +39,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>    
     <tr>
-    <td>02</td>
-    <td>01/22 - 01/26</td>
+    <td class="text-center">02</td>
+    <td class="text-center">01/22 - 01/26</td>
     <td>
         Foundations 2
         <ul>
@@ -51,8 +51,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>
     <tr>
-    <td>03</td>
-    <td>01/29 - 02/02</td>
+    <td class="text-center">03</td>
+    <td class="text-center">01/29 - 02/02</td>
     <td>
         Foundations 3
         <ul>
@@ -60,10 +60,11 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
           <li>Linear Algebra</li>
         </ul>
       </td>
+    <td> Homework 1 due <u>02/01/2024 at 11:59 pm</u> </td>
     </tr>
   <tr>
-    <td>04</td>
-    <td>02/05 - 02/09</td>
+    <td class="text-center">04</td>
+    <td class="text-center">02/05 - 02/09</td>
     <td>
       Module 1
       <ul>
@@ -77,8 +78,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
 </tr> 
 <!-- Previous rows are assumed to be above -->
   <tr>
-    <td>05</td>
-    <td>02/12 - 02/16</td>
+    <td class="text-center">05</td>
+    <td class="text-center">02/12 - 02/16</td>
     <td>
       Module 1
       <ul>
@@ -91,8 +92,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>06</td>
-    <td>02/19 - 02/23</td>
+    <td class="text-center">06</td>
+    <td class="text-center">02/19 - 02/23</td>
     <td>
       Module 2
       <ul>
@@ -101,8 +102,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>07</td>
-    <td>02/26 - 03/01</td>
+    <td class="text-center">07</td>
+    <td class="text-center">02/26 - 03/01</td>
     <td>
       Module 2
       <ul>
@@ -111,13 +112,13 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>08</td>
-    <td>03/04 - 03/08</td>
+    <td class="text-center">08</td>
+    <td class="text-center">03/04 - 03/08</td>
     <td>Spring Break</td>
   </tr>
   <tr>
-    <td>09</td>
-    <td>03/11 - 03/15</td>
+    <td class="text-center">09</td>
+    <td class="text-center">03/11 - 03/15</td>
     <td>
       Midterm Project Due - Module 2
       <ul>
@@ -126,8 +127,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>10</td>
-    <td>03/18 - 03/22</td>
+    <td class="text-center">10</td>
+    <td class="text-center">03/18 - 03/22</td>
     <td>
       Module 3
       <ul>
@@ -136,8 +137,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>11</td>
-    <td>03/25 - 03/29</td>
+    <td class="text-center">11</td>
+    <td class="text-center">03/25 - 03/29</td>
     <td>
       Module 3
       <ul>
@@ -146,8 +147,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>12</td>
-    <td>04/01 - 04/05</td>
+    <td class="text-center">12</td>
+    <td class="text-center">04/01 - 04/05</td>
     <td>
       Module 3
       <ul>
@@ -156,8 +157,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>13</td>
-    <td>04/08 - 04/12</td>
+    <td class="text-center">13</td>
+    <td class="text-center">04/08 - 04/12</td>
     <td>
       Module 3
       <ul>
@@ -166,8 +167,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>14</td>
-    <td>04/15 - 04/19</td>
+    <td class="text-center">14</td>
+    <td class="text-center">04/15 - 04/19</td>
     <td>
       Module 3
       <ul>
@@ -177,8 +178,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>15</td>
-    <td>04/22 - 04/26</td>
+    <td class="text-center">15</td>
+    <td class="text-center">04/22 - 04/26</td>
     <td>
       Module 3
       <ul>
@@ -188,8 +189,8 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>04/29 - 05/03</td>
+    <td class="text-center">16</td>
+    <td class="text-center">04/29 - 05/03</td>
     <td>
       Final
       <ul>
