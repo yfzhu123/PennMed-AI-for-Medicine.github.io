@@ -25,3 +25,29 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     </tr>
   </thead>
   <tbody>
+    <tr>
+    <td>2024/01/15 - 2024/01/19</td>
+    <td>
+        Foundations 1
+        <ul>
+          <li>Course Introduction</li>
+          <li>History of AI in Medicine</li>
+        </ul>
+      </td>
+    </tr>    
+    <tr>
+    <td>2024/01/22 - 2024/01/26</td>
+    <td>
+        Foundations 2
+        <ul>
+          <li>Basics of python programming</li>
+          <li>Infrastructure</li>
+          <li>Data Science</li>
+        </ul>
+      </td>
+    </tr>
+  <!-- More rows can be added here -->
+</tbody>
+</table>
+
+
