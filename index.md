@@ -163,8 +163,9 @@ Instructor
 : [Rafe McBeth, PhD](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774)
 
 Office
-: 4-346W
+: 2-302CMS
 
+<!---
 Discussion Forum
 : XXX
 
@@ -176,6 +177,7 @@ Time and place
 : The final day of class is Thursday, May 7, 2023.
 
 * The class meets on Thursdays from 0:45-4:45 pm Eastern.
+---> 
 
 Guest lectures will be presented by other members of the Penn Medical Physics team as needed to enhance content. (TBD)
 
