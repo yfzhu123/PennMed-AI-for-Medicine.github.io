@@ -1,24 +1,24 @@
 -
-  date: 2023-01-12
+  date: 2024-01-18
   title: Course Logistics
   recording: 
 -
-  date: 2023-01-12
+  date: 2024-01-18
   title: Programming setup
   recording: 
 -
-  date: 2023-01-12
+  date: 2024-01-18
   title: Basics of programming (Python)
   recording: 
 -
-  date: 2023-01-12
-  title: Introduction to data science and machine learning and its applications to medical physics
-  recording:
-  slides: test.pdf
--
-  date: 2023-01-12
-  title: Introduction / AI in Science Fiction and Philosophy 
-  recording: https://test.com 
+#  date: 2023-01-12
+#  title: Introduction to data science and machine learning and its applications to medical physics
+#  recording:
+#  slides: test.pdf
+#-
+#  date: 2023-01-12
+#  title: Introduction / AI in Science Fiction and Philosophy 
+#  recording: https://test.com 
 
 # recording: https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf97c97d-568d-44c7-85e2-ad9501232319&start=313.990763026
 
