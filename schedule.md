@@ -57,7 +57,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
       </td>
     </tr>
   <tr>
-    <td>02/05 - 02/09</td>
+    <td>2023/02/05 - 202302/09</td>
     <td>
       <strong>Module 1</strong>
       <ul>
