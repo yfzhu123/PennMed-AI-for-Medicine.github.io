@@ -2,13 +2,17 @@
 title: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics - University of Pennsylvania
 layout: default
 img: class_logo1.png 
-active_tab: main_page 
+active_tab: main_page
 ---
+
+<!---
 
 <img src='https://github.com/MedPhysDS-AI/medphysds-ai.github.io/blob/master/assets/img/laying_track.gif?raw=true/' alt='laying_tracks.gif'>
 
+--> 
+
 <div class="alert alert-info">
-<strong> This is a brand new course and the machine learning field is moving incredibly fast. Please be patient with me while I work to maximize the utility of this course, and work out the new course bugs. The course will be updated as the semester progresses, as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
+<strong> This is a brand new course and the artificial intelligence field is moving incredibly fast. Please be patient with me while I work to maximize the utility of this course, and work out the new course bugs. The course will be updated as the semester progresses, as new material becomes available and based on student feedback. Please do not hesitate to contact me with any questions or concerns.
 </strong>
 </div>
 
@@ -21,20 +25,24 @@ active_tab: main_page
   </ul>
 
 The overall goal of this course is to provide practical skills, such that the students can contribute to future clinical issues that benefit from the use of data science and machine learning.
-The majority of the didactic (lecture) material will be provided as uploaded videos that can be watched at the students convenience. The dedicated course time will be used as live lab coding sessions, where the students will work on the course material in a live coding environment. 
-Since the majority of the learning material will be presented online, and the class size is small, students are expected to attend class/lab sessions in person and work together to solve the coding problems.
-I believe the in person lab sessions will be greatly beneficial to the students, and will help to foster a collaborative learning environment and increase the help I can provide for any computer and coding issues. 
+
+Since the majority of the learning material will be presented live, and the class size is small, students are expected to attend class/lab sessions in person and work together to solve the coding problems.
+
+
+I believe the in person lab sessions will be greatly beneficial to the students, and will help to foster a collaborative learning environment and increase the help I can provide for any computer and coding issues.
+
+
 Students that cannot attend a specific day can the instructor to discuss alternative arrangements.
 
 Logistic details for the course are as follows:
-  <ul>
+
+<ul>
     <li> Course: MPHY 6120-01 Data Science & Artificial Intelligence for the Medical Physicist</li>
     <li> Offered:  Thursdays, 1:45 - 4:45 PM</li>
     <li> Classroom: SCTR 10-146AB</li>
     <li> Expected enrollment:  10</li>
   </ul>
 </div>
-
 
 <div class="alert alert-success"  markdown="1">
 If you are a newcomer to Python or if you need a refresher, we recommend that you enroll in [Penn's free Introduction to Python Programming course on Coursera](https://www.coursera.org/learn/python-programming-intro). Another useful resource is this recitation on [Debugging and Profiling in Python](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99b8b4a1-c303-4823-8a1c-adb0016d4c22) by Arun Kirubarajan.
@@ -77,9 +85,6 @@ This course is programming intensive, and requires prior Python experience and p
 </div>
 -->
 
-
-
-
 <!--
 <div class="alert alert-info" markdown="1">
 The course is done!  Please fill out this [end of semester survey](https://docs.google.com/forms/d/e/1FAIpQLSfYzkk9MD5WOda8WgUgXeDEDy06gUunApho2Me4nYoLXzgufQ/viewform?usp=sf_link) to give us feedback on how to improve the class next year.  If you loved the class, and would like to apply to be a TA, please fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSeGM7uegYNxf0pY6T2lOhMpUosnVnH3c1woZ10IcFJ18IKN-A/viewform?usp=sf_link).  If you'd like to volunteer for activities  with my research group you can [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScWgXblpIkADdO_K3PQIgm4LAGz0o-XEByPIVJg6_ObxZVAPQ/viewform).
@@ -87,6 +92,7 @@ The course is done!  Please fill out this [end of semester survey](https://docs.
 -->
 
 <!-- Display an alert about upcoming quizzes -->
+
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 {% for module in site.data.modules %}
 {% if module.quiz %}
@@ -94,6 +100,7 @@ The course is done!  Please fill out this [end of semester survey](https://docs.
 {% capture release_date %}{{module.start_date | date: '%s'}}{% endcapture %}
 {% capture due_date %}{{quiz.due_date | date: '%s'}}{% endcapture %}
 {% if release_date < now and due_date >= now %}
+
 <div class="alert alert-info">
 <a href="{{quiz.url}}">{{ quiz.title }}</a> has been released. It is due before {{ quiz.due_date | date: "%I:%M%p" }} on {{ quiz.due_date | date: "%A, %B %-d, %Y" }}.
 </div>
@@ -104,12 +111,14 @@ The course is done!  Please fill out this [end of semester survey](https://docs.
 <!-- End alert for upcoming quizzes -->
 
 <!-- Display an alert about upcoming homework assignments -->
+
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 {% for page in site.pages %}
 {% if page.release_date and page.due_date %}
 {% capture release_date %}{{page.release_date | date: '%s'}}{% endcapture %}
 {% capture due_date %}{{page.due_date | date: '%s'}}{% endcapture %}
 {% if release_date < now and due_date >= now %}
+
 <div class="alert alert-info">
 <a href="{{page.url}}">{{ page.title }}</a> has been released.  
 {% if page.deliverables %}
@@ -127,11 +136,6 @@ It is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.due_date | dat
 {% endif %}
 {% endfor %}
 <!-- End alert for upcoming homework assignments -->
- 
-
- 
-
-
 
 <!--
 <div class="alert alert-info" markdown="1">
@@ -165,36 +169,37 @@ Discussion Forum
 : XXX
 
 Time and place
-: In Spring 2022, the in person section of the course will be in person 
-: All lecture materials will be recorded and uploaded. Students are expected to watch this on their own time before meeting in person. 
+: In Spring 2022, the in person section of the course will be in person
+: All lecture materials will be recorded and uploaded. Students are expected to watch this on their own time before meeting in person.
 : The first day of class is Thursday, January 12, 2023.
 : The first day of office hours will be January 15, 2023.
 : The final day of class is Thursday, May 7, 2023.
-* The class meets on Thursdays from 0:45-4:45 pm Eastern.
 
+* The class meets on Thursdays from 0:45-4:45 pm Eastern.
 
 Guest lectures will be presented by other members of the Penn Medical Physics team as needed to enhance content. (TBD)
 
-Course Description:
-The fields of data science (DS) and artificial intelligence (AI) are growing rapidly and will impact the future practice of medicine and the field of Medical Physics. This course is designed to enhance the graduate student’s ability to contribute to Medical Physics research and the integration of DS and AI into clinical practice. The course will teach students practical programming techniques (Python), data science infrastructure, data analysis workflows, medical physics specific programming and how to build, analyze and use machine learning (ML) and Deep learning (DL) AI models. 
+**Course Description:**
+The fields of data science (DS) and artificial intelligence (AI) are growing rapidly and will impact the future practice of medicine and the field of Medical Physics. This course is designed to enhance the graduate student’s ability to contribute to Medical Physics research and the integration of DS and AI into clinical practice. The course will teach students practical programming techniques (Python), data science infrastructure, data analysis workflows, medical physics specific programming and how to build, analyze and use machine learning (ML) and Deep learning (DL) AI models.
 
-Course Format:
-Short on demand lectures will be provided for content being covered that week. It is expected that students will watch this material on their own. Meeting times will be dedicated to clarifying the lecture material, answering questions and working through hands on examples. 
+**Course Format:**
 
-Required course resources:
-No textbook required. Course materials will be provided online and will include videos, slides, Jupyter notebooks and a GitHub repository for skeleton code and examples. 
+Lectures will be given during the first 1-1.5 hours of lecture each day. The remaining class time will be used to go over practical examples, work on the assignments and work towards the midterm and final projects
 
-Course GitHub repository: https://github.com/MedPhysDS-AI
-Course website: https://medphysds-ai.github.io/
+
+**Required course resources:**
+No textbook required. Course materials will be provided online and will include videos, slides, Jupyter notebooks and a GitHub repository for skeleton code and examples.
+
+**Course GitHub repository:** https://github.com/PennMed-AI-for-Medicine
+**Course website:** https://pennmed-ai-for-medicine.github.io/
 
 Optional course resources:
--	Machine and Deep Learning in Oncology, Medical Physics and Radiology by Issam El Naqa et al, second edition, 2022 ISBN 978-3-030-83046-5
--	How to Think Like a Computer Scientist: Learning with Python
-2ed by Jeffrey Elkner, Allen B. Downey and Chris Meyers (Open Book
-Project) [https://greenteapress.com/wp/think-python-2e/]
--	Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter 3rd Edition by Wes McKinney (Author) [ISBN-10: 109810403X]
 
-
+- Machine and Deep Learning in Oncology, Medical Physics and Radiology by Issam El Naqa et al, second edition, 2022 ISBN 978-3-030-83046-5
+- How to Think Like a Computer Scientist: Learning with Python
+  2ed by Jeffrey Elkner, Allen B. Downey and Chris Meyers (Open Book
+  Project) [https://greenteapress.com/wp/think-python-2e/]
+- Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter 3rd Edition by Wes McKinney (Author) [ISBN-10: 109810403X]
 
 <!-- 
 : In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
@@ -213,11 +218,10 @@ Office hours
 Group Office Hours (Recorded)
 -->
 
-Group Office Hours
+**Group Office Hours**
 : TBD (Rafe McBeth)
 
-
-Textbooks
+**Textbooks**
 : Required: None currently required.
 
 <!-- 
@@ -233,23 +237,24 @@ Materials for Extra Credit Assignments
 : If you live outside of Philadelphia, you will also need a Raspberry Pi Sensor Pack that the TAs assembled from parts. We will send it to you if [you provide your address on this form](https://docs.google.com/forms/d/e/1FAIpQLSdGu_0Qms_RxA42QCZY0A_PrJFPNgXrVENYmZTAclrj5ZKoww/viewform?usp=sf_link).
 -->
 
-Grading 
+**Grading**
 : * 50% Homework Assignments and quizzes
+
 * 25% for midterm project
 * 25% for final project
 
 : | Score	| Grade   |
-|-------|---------| 
-| ≥ 97 | A+| 
-| 93-97	| A| 
-| 90-93	| A-| 
-| 87-90	| B+| 
-| 83-87	| B| 
-| 80-83	| B-| 
-| 75-80	| C+| 
-| 70-75	| C| 
-| 65-70	| C-| 
-| 50-65	| D| 
+|-------|---------|
+| ≥ 97 | A+|
+| 93-97	| A|
+| 90-93	| A-|
+| 87-90	| B+|
+| 83-87	| B|
+| 80-83	| B-|
+| 75-80	| C+|
+| 70-75	| C|
+| 65-70	| C-|
+| 50-65	| D|
 | below 50	| F |
 
 <!-- 
