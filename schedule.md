@@ -28,7 +28,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     <tr>
     <td>2024/01/15 - 2024/01/19</td>
     <td>
-        Foundations 1
+        <strong>Foundations 1</strong>
         <ul>
           <li>Course Introduction</li>
           <li>History of AI in Medicine</li>
@@ -38,7 +38,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     <tr>
     <td>2024/01/22 - 2024/01/26</td>
     <td>
-        Foundations 2
+         <strong>Foundations 2</strong>
         <ul>
           <li>Basics of python programming</li>
           <li>Infrastructure</li>
@@ -46,6 +46,29 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
         </ul>
       </td>
     </tr>
+    <tr>
+    <td>2024/01/29 - 2024/02/02</td>
+    <td>
+         <strong>Foundations 3</strong>
+        <ul>
+          <li>Statistics</li>
+          <li>Linear Algebra</li>
+        </ul>
+      </td>
+    </tr>
+  <tr>
+    <td>02/05 - 02/09</td>
+    <td>
+      <strong>Module 1</strong>
+      <ul>
+        <li>Applied data science - Python for medical applications 1
+          <ul>
+            <li>Data analysis, machine QA, DICOM, EDA...</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+</tr> 
   <!-- More rows can be added here -->
 </tbody>
 </table>
