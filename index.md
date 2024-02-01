@@ -1,7 +1,7 @@
 ---
 title: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics - University of Pennsylvania
 layout: default
-img: class_logo1.png 
+img: class_logo2.png 
 active_tab: main_page
 ---
 
