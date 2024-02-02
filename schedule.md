@@ -65,7 +65,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
           <li>Data Science</li>
         </ul>
       </td>
-    <td> Homework 1 due <br><u>02/01/2024 at 11:59 pm</u> <br>submit .ipynb file via email or through <a href="https://canvas.upenn.edu/courses/1771611/assignments/12119273">Canvas</a></td>
+    <td> Homework 1 due <u>02/01/2024 at 11:59 pm</u> <br>submit .ipynb file via email or through <a href="https://canvas.upenn.edu/courses/1771611/assignments/12119273">Canvas</a></td>
     </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">04</td>
@@ -109,6 +109,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
         <li>Introduction to machine learning</li>
       </ul>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">07</td>
@@ -125,6 +126,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
     <td style="text-align: center; vertical-align: middle;">08</td>
     <td style="text-align: center; vertical-align: middle;">03/04 - 03/08</td>
     <td>Spring Break</td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">09</td>
@@ -157,6 +159,7 @@ The schedule below shows the schedule section 401, which meets on Tuesday/Thursd
         <li>Practical Deep Learning 1: PyTorch</li>
       </ul>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">12</td>
